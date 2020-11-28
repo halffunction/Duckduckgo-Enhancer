@@ -1,2 +1,2 @@
-# duckduckgo-
+# duckduckgo-enhancer
 Providing better duckduckgo experience
